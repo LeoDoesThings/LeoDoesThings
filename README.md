@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a guy who likes to code sometimes.
+I like to code sometimes.
 
 [![Website](https://img.shields.io/badge/Website-leodt.xyz-informational?style=flat-square&logoColor=white)](https://leodt.xyz)
 
@@ -10,7 +10,7 @@ I'm a guy who likes to code sometimes.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LeoDoesThings&count_private=true&show_icons=true&include_all_commits=true)
 
-Feel free to email me at <leodoesthings@yahoo.com>
+Feel free to email me at <leo@leodt.xyz>
 
 <!--
 **LeoDoesThings/LeoDoesThings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
